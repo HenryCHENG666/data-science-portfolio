@@ -1,0 +1,6 @@
+title: Shichuan Cheng | Data Science Portfolio
+description: Virtual-cell simulation and perturbation prediction
+markdown: kramdown
+exclude:
+  - README.md
+  - PEER_REVIEW.md
